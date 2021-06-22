@@ -1,0 +1,19 @@
+{
+  "name": "curso-coursera",
+  "version": "1.0.0",
+  "description": "nuestro primer node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lduquef/web_Coursera.git"
+  },
+  "author": "Luis Santiago Duque Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lduquef/web_Coursera/issues"
+  },
+  "homepage": "https://github.com/lduquef/web_Coursera#readme"
+}

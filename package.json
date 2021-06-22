@@ -4,8 +4,8 @@
   "description": "nuestro primer node",
   "main": "index.html",
   "scripts": {
-    "dev" : "lite-server"
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev" : "lite-server",  
+    "test" : "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
